@@ -56,7 +56,7 @@ export default new Router({
           name: '用户统计',
           component: UserSexCount,
           meta: {
-            requireAuth: true,
+            requireAuth: true
           },
         },
       ]

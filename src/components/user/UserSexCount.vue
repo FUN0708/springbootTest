@@ -1,6 +1,6 @@
 <template>
      <div>
-       <p>用户统计</p>
+       <p>用户性别统计</p>
        <div>
          <el-card style="width: 45%;float: left">
            <span>用户性别统计</span>
